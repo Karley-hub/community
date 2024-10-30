@@ -22,16 +22,16 @@ Yehui Wang, Yixiang Zhang, Hailing Zhao, Xiaojie Hu, Fenju Fu, Guoqiang Qi, Xing
 
 ### The remaining issues of the meeting:
 ● Provide Zhang Yixiang with the dataset needed for the read.me document to evaluate the rationality of the document layout 
-（Relevant person：Guoqiang Qi，Deadline:2024.11.05）
+（Relevant person：Guoqiang Qi，Deadline：2024.11.05）
 
 ●Provide project ranking interface to Yixiang Zhang
-（Relevant person：Xingyou Lai，Deadline:2024.11.05）
+（Relevant person：Xingyou Lai，Deadline：2024.11.05）
 
 ● Open Atom Foundation needs to provide a pre-framework, and identify relevant technical areas within this week 
-（Relevant person：Xiaojie Hu，Deadline:2024.11.05）
+（Relevant person：Xiaojie Hu，Deadline：2024.11.05）
 
 ● Follow up to identify the need for commissioning Open Atom to conduct expert meetings 
-（Relevant person：Hailing Zhao，Deadline:2024.11.05）
+（Relevant person：Hailing Zhao，Deadline：2024.11.05）
 
 # 2024-08-20 Weekly Meeting Minutes of OSS Compass Community
 ## Time
