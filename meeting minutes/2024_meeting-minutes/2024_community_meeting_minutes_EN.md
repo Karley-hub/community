@@ -21,7 +21,7 @@ Yehui Wang, Yixiang Zhang, Hailing Zhao, Xiaojie Hu, Fenju Fu, Guoqiang Qi, Xing
 ● Team collaboration and communication of work support needs:The Open Atom Foundation has offered to provide support for OSS-Compass, including evaluation indicator dimensions, expert resources, etc. Subsequently, Compass will need to communicate clearly with other teachers to understand exactly what data or dimensions they need, and coordinate the support resources.
 
 ### The remaining issues of the meeting:
-● Provide Zhang Yixiang with the dataset needed for the read.me document to evaluate the rationality of the document layout 
+● Provide Zhang Yixiang with the dataset needed for the README document to evaluate the rationality of the document layout 
 （Relevant person：Guoqiang Qi，Deadline：2024.11.05）
 
 ●Provide project ranking interface to Yixiang Zhang
