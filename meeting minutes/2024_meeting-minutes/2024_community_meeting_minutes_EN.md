@@ -593,3 +593,38 @@ January 2, 2024, from 14:15 to 14:44 (Beijing Time)
    - **AP: Yehui Wang and Ran Zhou provide relevant support.**
 ## Kanban tracking
 https://github.com/orgs/oss-compass/projects/1
+
+# 2024-10-29 Weekly Meeting Minutes of OSS Compass Community
+## Time
+October 29, 2024, 19:00-20:00 PM Beijing time
+## Attendees
+Yehui Wang, Yixiang Zhang, Hailing Zhao, Xiaojie Hu, Fenju Fu, Guoqiang Qi, Xingyou Lai, Shengbao Li, Songnan Li, Chunmin Li
+## Topic -Discussion on Compass's cooperation with Open Source Summer and Open Atom Foundation
+### Open Source Summer Collaboration Project Research Tracking：Document Quality Assessment-README(Yixiang Zhang)
+● README document: He analyzed the specific target personnel to extract some of the relevant features, can be used directly in the way of pattern matching, or directly through the surface model extraction to solve the README document should contain what should be included in the relevant perfect knowledge, the content of the classification and so on，he raised the need for Compass to provide the relevant dataset Subsequently.
+
+● Document Coding style: Subsequently, he will continue to refine the research sample before laying out on that level.
+
+● Document layout rationality: We can use the existing model to try to improve the content of the text of the Chinese document to understand the way as well as writing logic analysis to improve the readability of the document, but need to provide the relevant data sets; on the permutation-related issues, we can analyze the relevant content more deeply, and for the kind of interaction between the picture and the text and so on the design of the situation.
+
+● Document timeliness: We can add two points to the original “whether to update only the function”, one is that version updates need to be prompted; the second is that the open source community documents are not only released on Github, but also synchronized with the internal community documents.
+
+### Discussion on the cooperation between Open Atom and Compass (Hailing Zhao & Xiaojie Hu)
+● Open Source Project Evaluation and Developer Positioning: The two sides had an in-depth exchange of views on the selection of projects, data collection and processing, and the fairness and transparency of the awards. There is a need to jointly communicate a mutually agreeable outcome and to find key developers within the project. At the same time, both sides discussed how to evaluate open source projects and developers, and how to ensure the fairness and transparency of the award. Finally, a consensus was reached that this year's technology areas will be determined based on the Foundation's development direction and its own planning.
+
+● List model design: Open Atom proposes that the modeling of the indicators behind the list should be simple to understand and not overly complex. It is suggested that the calculation rules and evaluation rules should be made public for transparency. At the same time, they will consider the dimensions of different technical areas and communicate them according to specific needs.
+
+● Team collaboration and communication of work support needs:The Open Atom Foundation has offered to provide support for OSS-Compass, including evaluation indicator dimensions, expert resources, etc. Subsequently, Compass will need to communicate clearly with other teachers to understand exactly what data or dimensions they need, and coordinate the support resources.
+
+### The remaining issues of the meeting:
+● Provide Zhang Yixiang with the dataset needed for the read.me document to evaluate the rationality of the document layout 
+（Relevant person：Guoqiang Qi，Deadline:2024.11.05）
+
+●Provide project ranking interface to Yixiang Zhang
+（Relevant person：Xingyou Lai，Deadline:2024.11.05）
+
+● Open Atom Foundation needs to provide a pre-framework, and identify relevant technical areas within this week 
+（Relevant person：Xiaojie Hu，Deadline:2024.11.05）
+
+● Follow up to identify the need for commissioning Open Atom to conduct expert meetings 
+（Relevant person：Hailing Zhao，Deadline:2024.11.05）
