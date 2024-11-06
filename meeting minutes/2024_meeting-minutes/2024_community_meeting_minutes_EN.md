@@ -1,3 +1,44 @@
+# 2024-11-05 Weekly Meeting Minutes of OSS Compass Community
+## Time
+November 5, 2024, 19:00-20:00 PM Beijing time
+## Attendees
+Yehui Wang, Yixiang Zhang, Rongman Xu, Shengxiang Zhang, Hailing Zhao, Xiaojie Hu, Guoqiang Qi, Xingyou Lai, Chunmin Li
+## Topic -Discussion on Compass's cooperation with Open Source Summer and Open Atom Foundation
+### I. Discussion on cooperation matters between Open Source Summer and Compass (Yixiang Zhang)
+● Discussion of data crawling results：Discussion on data crawling: discussed the recent results of data crawling, and planned to modify the API code in order to crawl the top 10,000 projects; discussed with Yehui Wang about the data migration and storage of the lower ranked projects, and how to filter the high quality data; also explored the model of the community service and support scores and how to evaluate the data by the activity level and community service support.
+
+● Discussion on model evaluation and correlation with project documents: discussed how to evaluate existing project documents through models to get scores for all projects. Qi suggested that the scores of the model can be observed through clustering and other methods to observe the characteristics of different groups, and mentioned the impact of community support on the quality of the whole community. Finally, the issue of treating models as black boxes was discussed, as well as the importance of documentation in open source.
+
+● Model Testing and Optimization Exploration Discussion: discussed the application of a model in scoring, Yixiang Zhang found that the model may generate unreasonable results when dealing with a large number of tokens, and discussed with Yefai Wang, Shengxiang Zhang, and Guoqiang Qi whether the model is optimized for specific types of projects and how to deal with unrecognizable links, etc., and finally proposed that the follow-up needs Yixiang Zhang to do a good job in accumulating the test results and output conclusions.
+### II. Insights & Thoughts on OSS-Compass (Rongman Xu)
+● It was found that OSS-Compass currently focuses on the community perspective, but lacks the observation of the developer's perspective;
+
+● Discussed the issue of data-oriented objects, and Yefai Wang suggested that data should ultimately serve people, and user orientation needs to be clarified;
+
+● Discussed how to provide full-volume data and how to deliver processed data quickly;
+
+● Discussed how to analyze Raw Data, and how to quickly access different types of data.
+### III. Discussion on the cooperation between Open Atom Foundation and OSS-Compass (Hailing Zhao, Xiaojie Hu)
+● Discussion on the progress of cooperation: a consensus has been reached on the plan to establish a LF Research-like organization at the Open Atom Foundation, which will be set up by referring to the LF Research organizational structure to set up a data driven research committee or lab similar to the one at Open Atom; in response to the need for continuous evaluation, insights, and governance of projects at UltraAtomics, Yefei Wang proposed that the cooperation can be done in a looser but more Wang Yefai suggested a looser but more in-depth approach to business-specific collaboration;
+
+● Discussion of external resources cooperation strategy: Regarding the work plan of OSS-Compass to establish a community and the development of open source reports, the Open Atomics Foundation proposes to provide relevant support; in addition, the Foundation plans to contact the Open Source Chip Research Institute (OSCRI) and other external forces to participate in the work, and to coordinate the resources to actively cooperate with the work. Wang Yefui proposed to provide full data collection and analysis for 2022-2024 to facilitate the insight work.
+
+● Discussion on report preparation and open source project exploration: Regarding the outline of the report, it is suggested to follow the practice of well-known annual reports in the industry and analyze some important points in depth while spreading the insight data as a whole in order to increase the value of the report. In addition, regarding the technology direction, it is recommended to start with three major technology directions, namely operating system, database and artificial intelligence, and list 10 open source projects in each field, including the mainstream open source projects and those with the most growth potential in China.
+
+● Project Selection and Evaluation Considerations: First, the suggestion of listing candidate projects based on technology areas, such as operating systems, databases, and AI, is presented. Then, it discusses how to conduct competitive analysis from a global perspective and Huawei's perspective, emphasizing the importance of the domestic situation; it raises questions about the list of open source projects, such as whether it is necessary to classify projects into different types. Finally, it was suggested that the domestic situation and needs should be considered when selecting projects.
+### IV. Remaining issues
+● Make a list of requirements for inviting external experts to participate in the work next week;
+(Responsible person: Hailing Zhao; Completion date: November 12, 2024)
+
+● Make a list of candidate projects in three technical directions (e.g. OS, database, AI);
+(Responsible person: Xiaojie Hu; Completion date: November 12, 2024)
+
+● Finish evaluating the big technology directions next week to give a rough direction;
+(Responsible person: Yehui Wang; Completion date: November 12, 2024)
+
+● Discuss specific dimension indicators next week to decide on subsequent sessions to validate the data;
+(Responsible parties: Shengxiang Zhang and Yehui Wang; Completion date: November 12, 2024)
+
 # 2024-10-29 Weekly Meeting Minutes of OSS Compass Community
 ## Time
 October 29, 2024, 19:00-20:00 PM Beijing time
