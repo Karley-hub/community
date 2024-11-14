@@ -1,3 +1,56 @@
+# 2024-11-12 Weekly Meeting Minutes of OSS Compass Community
+## Time
+November 12, 2024, 19:00-20:00 PM Beijing time
+## Attendees
+Yehui Wang, Yanguang Wang, Xiaohua Xin, Yixiang Zhang, Rongman Xu, Shengxiang Zhang, Hailing Zhao, Xiaojie Hu, Guoqiang Qi, Xingyou Lai, Shengbao Li, Songnan Li, Chunmin Li
+## I.Topic -Discussion on Compass's cooperation with Open Source Summer and Open Atom Foundation(Yixiang Zhang)
+Work plan and data vulnerability analysis：The next work plan was discussed, including detection based on cross-function vulnerability, data set alignment, clustering problem, etc.. First, Yixiang Zhang proposed to perform cross-function vulnerability-based detection, then arrange the dataset and consider cooperation with component analysis. Next, clustering operations are performed, including the relative relationship between images and texts, completeness and timeliness. In addition, issues such as how to deal with document layout and feature extraction were discussed with Yehui Wang.
+
+Text Content Clustering and Quality Assessment：Discusses how to cluster text, including categorization of quality, high school and low school. In order to achieve these goals, factors such as relevance, ordinality, and quality levels need to be considered. In addition, Qi mentioned the document coding guidelines from Google and Microsoft and suggested to refer to the dimensions therein.
+## II Insights & Reflections on OSS-Compass (RongMan Xu)
+● Discussion on how to provide full amount of data to users and fast delivery of processed data to users. Yehui Wang suggested that there are problems with the current Compass API: ① there is no public schema; ② there is no productized and public way of delivering full-volume data. In addition, issues such as the frequency of data updates and permission settings were also discussed.
+● Regarding REST API, Yehui Wang suggested that REST API can add many security configurations, such as rate limit, token checking and so on. In addition, Qi suggested that the REST API can be used to realize the perception of the model, understand the data model definition, and try to do some checksums and symmetric encryption. Finally, Shengxiang Zhang suggests to understand more OPEN API specification from the perspective of engineering practice.
+## III. Discussion on the cooperation between Open Atom and Compass
+### 1.Sharing Data Building Model with Open Atom (Yehui Wang)
+Shared the data building model with Open Atom, grabbed the full amount of data from 2022 to 2024, and shared the framework diagram to build the data model through five dimensions, such as active projects, new projects, active contributors, new contributors, and contribution volume. In order to observe the developer behavior in different countries or regions, he proposed the concept of contributor portrait and analyzed the differences between different countries.
+
+### 2.Discussions were conducted:
+#### Yearbook report design discussion (Xiaojie Hu)
+Discussed how to evaluate major open source projects, including aspects such as activity, contributors, and ecological construction. The goal of the Open Atom Almanac report is to look for the logic and patterns behind the data, rather than simply ranking them. The report will focus on three areas: database, operating system and AI big model, and analyze the distribution of global countries and Chinese cities. In addition, the possibility of replacing new open source projects with the fastest growing open source projects was discussed with Yehui Wang. 
+                            
+#### Assessment and Trends of AI Big Model Open Source Projects (Xiaojie Hu)
+The evaluation logic and dimensions of open source projects in the field of operating systems and databases, as well as the definition and application of AI big models were discussed. It was pointed out that current AI big models with small requirements for arithmetic power are more suitable for personal and small group use, while open source big models may not be suitable. In addition, Yehui Wang mentioned the role of open source projects in collaboration and how to discover and promote these laws.
+
+#### Discussion on Selection and Incentive Mechanism of Open Source Projects (Xiaojie Hu)
+Issues about the selection and data availability of open source projects were discussed. Firstly, it was mentioned to combine the report with a developer conference to publish the most active open source projects in 2024. Regarding the assessment of the value of developers in different technological fields and how to construct dimensions for evaluating projects, Hu emphasized that the selection of open source projects is meant to recognize open source projects in Chinese technological fields. In addition, on how to incentivize organizations and individuals in the field of operating systems and how to define the direction of incentives. Wang Yehui suggested to incentivize around the OS field in terms of enhancing the frequency of software updates and increasing investment in technical software.
+
+#### Contribution Analysis in OS and AI (Xiaojie Hu)
+Business contributions, AI model applications, and database industry applications were discussed. Yehui Wang mentioned the importance of operating systems and databases in industry applications, and also emphasized the importance of data breadth insights for developers. He suggested focusing on 2024 data, analyzing data for AI domains, operating systems, and databases, and providing some empirically based recommendations. It is also recommended to talk to experts in related industries to understand the dimensions of their concerns, such as application aspects or industry attributes, in order to consider the problem more concretely.
+
+#### Construction and Application of Project and Developer Profiles (Xin Xiaohua)
+Xin Xiaohua raised two questions: One is how to judge whether a project is in China or not, through technical means and data statistics; the other is how to measure the global top30 industry projects, through multiple indicators and models for evaluation. Wang Yehui thinks that there are many labels for each project in the compass database, and it is necessary to establish project and developer profiles and integrate them.
+
+#### Project and Developer Portrait Analysis (Wang Yanguang)
+Discussed how to rank active contributors and how to consider the impact of projects. First, Yegui Wang suggested that ranking needs to be done in multiple dimensions, including technology domains, project activity, and so on. Second, there is a need to focus on the differences between developers in different countries and regions in the same field. It is also necessary to pay attention to the ranking of different operating system kernels in the same field. Finally, for details such as document quality, PR quality, etc., it can be used as a series of actions for in-depth insight.
+
+#### Data Analysis and Project Characterization Exploration (Hailing Zhao)
+Issues regarding the analysis of developers from different countries were discussed, as well as the combination of projects from the Software Institute of the Chinese Academy of Sciences and Happy Hospital. Zhao Hailing proposed whether to analyze the horizontal indicators of each project by vertical fields in the process of analysis, and analyze the developer's activity based on these indicators. Yehui Wang thought it could be designed based on the above and emphasized the data insight perspective, hoping to include big and comprehensive content in the initial framework rather than covering everything at the beginning.
+## IV. Remaining Issues
+●Understand Rest API and try to use it to write through documents to interface with Compass model;
+(Responsible person: Rong-Man Xu; Completion date: November 19, 2024)
+
+●Finish the initial first draft of the data model based on the built-out data model in mid-December 
+(Responsible person: Yehui Wang; Completion time: mid-December)
+
+●Report back to leadership on progress of work on how to measure and incentivize upstream community contributions (Responsible person: Xiaojie Hu;
+Completion date: November 19, 2024)
+
+●Communicate with leadership on the logic and strategy of the annual report and incentives aspects, and align with Compass on subsequent directions; 
+(Responsible person: Xiaojie Hu; Completion: November 19, 2024)
+
+●Focus on 2024 data and provide data support for AI domains, operating systems, and databases 
+(Responsible person: Xiaojie Hu; Completion: November 19, 2024)
+
 # 2024-11-05 Weekly Meeting Minutes of OSS Compass Community
 ## Time
 November 5, 2024, 19:00-20:00 PM Beijing time
